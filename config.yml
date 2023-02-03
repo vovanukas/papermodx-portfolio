@@ -1,13 +1,13 @@
-title: PaperModX Example Site
-baseURL: "https://reorx.github.io/papermodx-example/"
+title: Vladimiras Malyskinas | Portfolio
+baseURL: ""
 theme: PaperModX
 
 enableRobotsTXT: true
 enableEmoji: true
 
 params:
-  description: "PaperModX Example Site description"
-  author: Reorx
+  description: "A collection of work by me!"
+  author: Vladimiras Malyskinas
   images:
     - cover.png
   favicon: favicon.ico
@@ -29,40 +29,39 @@ params:
   ShareButtons:
     - twitter
     - telegram
-  ShowReadingTime: true
-  ShowWordCount: true
+  ShowReadingTime: false
+  ShowWordCount: false
   ShowCodeCopyButtons: true
   ShowPostNavLinks: true
-  Email: hello@example.com
+  Email: malvladimiras+website@gmail.com
 
   socialIcons:
-    - name: github-simple
-      url: "https://github.com/reorx"
-    - name: twitter-simple
-      url: "https://twitter.com/novoreorx"
     - name: telegram-simple
-      url: "https://t.me/reorx_share"
-    - name: rss-simple
-      url: "feed.xml"
+      url: "https://t.me/vladimirasmal"
     - name: gmail
       url: email
-
-  socialAccounts:
-    twitter:
-      username: novoreorx
+    - name: fiverr-simple
+      url: "https://www.fiverr.com/trxlhxds"
+    - name: linkedin-simple
+      url: "https://www.linkedin.com/in/vladimirasmal"
 
   homeInfoParams:
-    Title: "PaperModX"
+    Title: |
+      BSc Music Technology
+
+      Game Audio & Acoustics
     Content: |
-      Welcome to demo of hugo's theme PaperModX.
+      Welcome to my little portfolio, where you can find my:
 
-      - **PaperModX** is a simple but fast and responsive theme with useful feature-set that enhances UX.
+      - **Social Links**
 
-      - PaperModX is based on theme [PaperMod](https://github.com/adityatelange/hugo-PaperMod).
+      - **Previous Work**
 
-      To get started, please head to the [Docs](docs).
+      - **Blog Posts**
 
-      To see examples of different contents, head to [examples tag](tags/example).
+      - **_Hopefully Soon_ Useful Tools**
+
+      Why not check out my <ins>[work](/work/)</ins>?
 
   #commentSystems:
   #  disqus:
@@ -77,9 +76,6 @@ params:
   #defaultCommentSystems:
   #  remark42: true
 
-permalinks:
-  notes: /:section/:year/:month/:slugorfilename
-
 # prefer feed.xml rather than index.xml
 outputFormats:
   RSS:
@@ -88,17 +84,14 @@ outputFormats:
 
 menu:
   main:
-    - name: Posts
-      url: /posts/
+    - name: work
+      url: /work/
       weight: 1
-    - name: Notes
-      url: /notes/
+    - name: contact
+      url: /contact/
       weight: 2
-    - name: Newsletter
-      url: /newsletter/
-      weight: 3
-    - name: Archives
-      url: /archives/
+    - name: posts
+      url: /posts/
       weight: 4
 
 languages:
