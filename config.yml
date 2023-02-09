@@ -1,13 +1,13 @@
-title: Vladimiras Malyskinas | Portfolio
-baseURL: ""
+title: PaperModX Example Site
+baseURL: "https://reorx.github.io/papermodx-example/"
 theme: PaperModX
 
 enableRobotsTXT: true
 enableEmoji: true
 
 params:
-  description: "A collection of work by me!"
-  author: Vladimiras Malyskinas
+  description: "PaperModX Example Site description"
+  author: Reorx
   images:
     - cover.png
   favicon: knobs.ico
@@ -29,39 +29,40 @@ params:
   ShareButtons:
     - twitter
     - telegram
-  ShowReadingTime: false
-  ShowWordCount: false
+  ShowReadingTime: true
+  ShowWordCount: true
   ShowCodeCopyButtons: true
   ShowPostNavLinks: true
-  Email: malvladimiras+website@gmail.com
+  Email: hello@example.com
 
   socialIcons:
+    - name: github-simple
+      url: "https://github.com/reorx"
+    - name: twitter-simple
+      url: "https://twitter.com/novoreorx"
     - name: telegram-simple
-      url: "https://t.me/vladimirasmal"
+      url: "https://t.me/reorx_share"
+    - name: rss-simple
+      url: "feed.xml"
     - name: gmail
       url: email
-    - name: fiverr-simple
-      url: "https://www.fiverr.com/trxlhxds"
-    - name: linkedin-simple
-      url: "https://www.linkedin.com/in/vladimirasmal"
+
+  socialAccounts:
+    twitter:
+      username: novoreorx
 
   homeInfoParams:
-    Title: |
-      BSc Music Technology
-
-      Game Audio & Acoustics
+    Title: "PaperModX"
     Content: |
-      Welcome to my little portfolio, where you can find my:
+      Welcome to demo of hugo's theme PaperModX.
 
-      - **Social Links**
+      - **PaperModX** is a simple but fast and responsive theme with useful feature-set that enhances UX.
 
-      - **Previous Work**
+      - PaperModX is based on theme [PaperMod](https://github.com/adityatelange/hugo-PaperMod).
 
-      - **Blog Posts**
+      To get started, please head to the [Docs](docs).
 
-      - **_Hopefully Soon_ Useful Tools**
-
-      Why not check out my <ins>[work](/work/)</ins>?
+      To see examples of different contents, head to [examples tag](tags/example).
 
   #commentSystems:
   #  disqus:
@@ -76,6 +77,9 @@ params:
   #defaultCommentSystems:
   #  remark42: true
 
+permalinks:
+  notes: /:section/:year/:month/:slugorfilename
+
 # prefer feed.xml rather than index.xml
 outputFormats:
   RSS:
@@ -84,6 +88,7 @@ outputFormats:
 
 menu:
   main:
+<<<<<<< HEAD
     - name: work
       url: /work/
       weight: 1
@@ -93,6 +98,20 @@ menu:
     - name: contact
       url: /contact/
       weight: 3
+=======
+    - name: Posts
+      url: /posts/
+      weight: 1
+    - name: Notes
+      url: /notes/
+      weight: 2
+    - name: Newsletter
+      url: /newsletter/
+      weight: 3
+    - name: Archives
+      url: /archives/
+      weight: 4
+>>>>>>> parent of f6d4731 (made website)
 
 languages:
   en:
