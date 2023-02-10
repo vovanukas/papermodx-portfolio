@@ -88,7 +88,6 @@ outputFormats:
 
 menu:
   main:
-<<<<<<< HEAD
     - name: work
       url: /work/
       weight: 1
@@ -98,20 +97,6 @@ menu:
     - name: contact
       url: /contact/
       weight: 3
-=======
-    - name: Posts
-      url: /posts/
-      weight: 1
-    - name: Notes
-      url: /notes/
-      weight: 2
-    - name: Newsletter
-      url: /newsletter/
-      weight: 3
-    - name: Archives
-      url: /archives/
-      weight: 4
->>>>>>> parent of f6d4731 (made website)
 
 languages:
   en:
