@@ -12,7 +12,7 @@ ShowToc: true
 >
 > — <cite>Craig Colorusso</cite>
 
-{{< audio src="/audio/Tragedy of Laika.mp3" >}}
+{{< audio src="./Tragedy of Laika.mp3" >}}
 
 ### Introduction
 As our last module for our first academic year we have the sound art composition module. As part of it we were tasked with creating a short composition with students from Honk Kong and Madrid. This COIL (Collaborative Online International Learning) project paired me up with two students: Matthew Lam and Manfred Sun.
