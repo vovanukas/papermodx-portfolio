@@ -46,6 +46,7 @@ jobs:
           hugo \
             --minify \
             --buildFuture \
+            --buildDrafts \
             --environment production \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
       - name: Upload artifact
