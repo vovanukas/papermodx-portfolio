@@ -23,7 +23,7 @@ Finally everything is tied together by posting the associated Ak event, which pl
 
 Inside of Wwise I have created a Boat_Transition Blend Container, which blends the Idle and Moving boat sounds using the BoatSpeed RTPC. Furthermore, Boat_Movement is divided into MotorSounds and WaterSounds, which are further controlled by the BoatSpeed RTPC to change the pitch and volume of these voices.
 
-{{< figure align=center src="barge-wwise.png" >}}
+{{< figure align=center src="/images/barge-wwise.png" >}}
 
 ### Results
 
