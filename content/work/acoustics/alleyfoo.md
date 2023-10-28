@@ -1,13 +1,12 @@
 ---
 title: "Desktop Studio in a Living Room"
-description: ""
+description: "The project scope included optimization and improvement of sound quality and reverberation in a studio room."
 cover:
     image: images/alleyfoo.jpg
-type: essays
 ---
+From the start room measurements were taken using REW and a measurement microphone, which has shown phase issues due to the non-central speaker position.
 
-The project was to optimize the sound quality in a studio room by achieving an RT60 between 0.3s and 0.5s, through adjustments to room layout, speaker placement, and sound treatment.
+Optimization of this living room studio was achieved by moving furniture to create a sensible acoustic set-up, positioning the speakers in the center of the room, and using bass traps and sound absorbers to reduce room modes and flutter echo.
 
-This included moving furniture to create a cozier atmosphere, positioning the speakers in the center of the room, and using bass traps and sound absorbers to reduce room modes and flutter echo.
+The goal of this project was achieved: An even frequency response across the spectrum, with no frequency remaining prevalent in the room.
 
-The goal was to achieve an even frequency response across the spectrum, with no frequency remaining prevalent in the room.
