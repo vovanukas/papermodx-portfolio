@@ -1,5 +1,5 @@
 ---
-title: Auris Media Internship Portfolio
-description: Work and projects I have worked on while being with Auris Media.
+title: Game Audio @ Auris Media Internship Portfolio
+description: Game Audio projects I have worked on while being with Auris Media.
 archivesSlug: archives
 ---
