@@ -16,8 +16,6 @@ params:
   DateFormat: "2006-01-02"
   useCustomAnalytics: true
   mainSections:
-    - posts
-    - notes
 
   # theme params
   DisableLanguageSwitch: true
@@ -47,19 +45,21 @@ params:
 
   homeInfoParams:
     Title: |
-      BSc Music Technology
+      BSc Music Technology |
 
       Game Audio & Acoustics
     Content: |
       Welcome to my little portfolio, where you can find my:
 
-      - **Social Links**
+      - <ins>[**Previous Work:**](/work/)</ins>
 
-      - **Previous Work**
+        - <ins>[**Acoustics**](/work/acoustics/)</ins>
+        - <ins>[**Game Audio**](/work/auris-media-portfolio/)</ins>
+        - <ins>[**Sound Design**](/work/sound-design/)</ins>
 
-      - **Blog Posts**
+      - <ins>[**Blog Posts**](/posts/)</ins>
 
-      - **_Hopefully Soon_ Useful Tools**
+      - **My Own Software** [COMING SOON]
 
       Why not check out my <ins>[work](/work/)</ins>?
 
