@@ -1,6 +1,6 @@
 ---
 title: "Small Home Studio"
-description: "Creating a compact desktop studio in a small space. With after pictures."
+description: "Creating a compact desktop studio in a small space, with after pictures."
 cover:
     image: images/ara_bm01.jpg
 

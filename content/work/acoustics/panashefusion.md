@@ -1,6 +1,6 @@
 ---
 title: "From Office Space to a Music Studio"
-description: "Converting an office space into a recording studio. With before and after pictures."
+description: "Converting an office space into a recording studio, with before and after pictures."
 cover:
     image: images/panashefusion01.jpg
 ShowToc: true
