@@ -6,7 +6,7 @@ enableRobotsTXT: true
 enableEmoji: true
 
 params:
-  description: "A collection of work by me!"
+  description: "A collection of my work!"
   author: Vladimiras Malyskinas
   images:
     - cover.png
@@ -51,7 +51,7 @@ params:
     Content: |
       Welcome to my little portfolio, where you can find my:
 
-      - <ins>[**Previous Work:**](/work/)</ins>
+      - <ins>[**My Works:**](/work/)</ins>
 
         - <ins>[**Acoustics**](/work/acoustics/)</ins>
         - <ins>[**Game Audio**](/work/auris-media-portfolio/)</ins>
@@ -61,7 +61,7 @@ params:
 
       - **My Own Software** [COMING SOON]
 
-      Why not check out my <ins>[work](/work/)</ins>?
+      And here are my contact links:
 
   #commentSystems:
   #  disqus:
