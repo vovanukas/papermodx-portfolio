@@ -61,6 +61,8 @@ params:
 
       - <ins>[**Play My New Game**](/work/samurai-game/)</ins>
 
+      If you are here for <mark>coding lessons</mark> - [**Click Here!**](/coding-lessons/) 
+
       And here are my contact links:
 
   #commentSystems:
@@ -90,9 +92,12 @@ menu:
     - name: posts
       url: /posts/
       weight: 2
+    - name: coding lessons
+      url: /coding-lessons/
+      weight: 4
     - name: contact
       url: /contact/
-      weight: 3
+      weight: 4
 
 languages:
   en:
