@@ -45,13 +45,11 @@ params:
 
   homeInfoParams:
     Title: |
-      BSc Music Technology |
-
-      Game Audio & Acoustics
+      About Vladimiras...
     Content: |
-      Welcome to my little portfolio, where you can find my:
+      Welcome to my portfolio, where you can find:
 
-      - <ins>[**My Works:**](/work/)</ins>
+      - <ins>[**My Work:**](/work/)</ins>
 
         - <ins>[**Acoustics**](/work/acoustics/)</ins>
         - <ins>[**Game Audio**](/work/auris-media-portfolio/)</ins>
