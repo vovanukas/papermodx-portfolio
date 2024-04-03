@@ -45,7 +45,7 @@ params:
 
   homeInfoParams:
     Title: |
-      About Vladimiras...
+      Combining Acoustics & Programming
     Content: |
       Welcome to my portfolio, where you can find:
 
@@ -90,8 +90,8 @@ menu:
     - name: posts
       url: /posts/
       weight: 2
-    - name: coding lessons
-      url: /coding-lessons/
+    - name: about
+      url: /about-me/
       weight: 4
     - name: contact
       url: /contact/
