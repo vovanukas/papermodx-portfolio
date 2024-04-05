@@ -22,7 +22,7 @@ Delivered over 40 successful acoustic consulting projects across the world, craf
 ---
 
 ## Experiences:
-**Director @ Codiblox** - 2024
+**Proprietor @ Codiblox** - 2024
 
 **Audio Programming Intern @ Auris Media** - 2022 - 2023
 
